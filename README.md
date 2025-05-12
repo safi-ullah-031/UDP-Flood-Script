@@ -25,8 +25,7 @@ This script simulates a **UDP flood attack** for the purpose of **network securi
 Clone the repository:
 
 ```bash
-git clone https://github.com/safi-ullah-031 udp-flood-script.git 
-
+git clone https://github.com/safi-ullah-031/UDP-Flood-Script.git
 ```
 ```bash
 cd UDP-Flood-Script
